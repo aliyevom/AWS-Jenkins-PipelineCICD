@@ -1,6 +1,5 @@
 # AWS-Jenkins-Pipeline
 
-## Creating a CI/CD Pipeline: Jenkins Integration with AWS CodeBuild and AWS CodeDeploy
 
 In this repository, we demonstrate how to establish a robust CI/CD pipeline by seamlessly integrating Jenkins with AWS CodeBuild and AWS CodeDeploy. This powerful combination automates the deployment of AWS CodeBuild artifacts using AWS CodeDeploy, facilitating a streamlined development and deployment process. 
 
